@@ -1,0 +1,30 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+}
+
+html {
+    font-family: 'Nunito', sans-serif;
+    font-size: 22px;
+    color: #fff;
+}
+
+body {
+      
+    min-height: 100vh;
+    background-color: dodgerblue;
+  
+;
+}
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+   background-image: url("https://muenchen.mitvergnuegen.com/wp-content/uploads/sites/3/2019/01/the-john-rylands-library-3537566_1920.jpg");
+}
+
